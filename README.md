@@ -124,5 +124,3 @@ If you have any questions or need assistance, feel free to reach out to your Cod
 Happy Coding! 🚀
 
 ---
-
-This README will guide the students through the process of practicing GitHub skills both via the terminal and GitHub Desktop. Let me know if you need any additional information or adjustments!
